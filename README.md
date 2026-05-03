@@ -1,6 +1,6 @@
 # Calculadora de Ahorro Mensual
 
-Proyecto básico en Python para practicar programación desde cero creando una herramienta sencilla y útil: una calculadora que permite saber cuánto dinero queda disponible al mes después de restar gastos e inversión.
+Una calculadora que permite saber cuánto dinero queda disponible al mes después de restar gastos e inversión.
 
 ---
 
